@@ -1,3 +1,6 @@
 [submodule "cicd-express-openai"]
 	path = cicd-express-openai
 	url = https://github.com/cTapiaDev/cicd-express-openai
+[submodule "observabilidad-prometheus-grafana"]
+	path = observabilidad-prometheus-grafana
+	url = https://github.com/cTapiaDev/demo-metricas-prometheus
