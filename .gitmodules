@@ -4,3 +4,6 @@
 [submodule "observabilidad-prometheus-grafana"]
 	path = observabilidad-prometheus-grafana
 	url = https://github.com/cTapiaDev/demo-metricas-prometheus
+[submodule "terraform-k8s-demo"]
+	path = terraform-k8s-demo
+	url = https://github.com/cTapiaDev/terraform-k8s-demo
