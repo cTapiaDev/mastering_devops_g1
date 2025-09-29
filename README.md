@@ -1,5 +1,5 @@
 # Portafolio de Proyectos - DevOps Senior G1
-¡Bienvenido! Este repositorio sirve como un portafolio centralizado de lso proyectos prácticos desarrollados durante el curso <b>DevOps Senior - Primera Generación</b>. Cada proyecto está contenido en su propio repositorio y representa la aplicación de conceptos avanzados en diferentes áreas clave del ecosistema DevOps.
+¡Bienvenido! Este repositorio sirve como un portafolio centralizado de los proyectos prácticos desarrollados durante el curso <b>DevOps Senior - Primera Generación</b>. Cada proyecto está contenido en su propio repositorio y representa la aplicación de conceptos avanzados en diferentes áreas clave del ecosistema DevOps.
 
 ---
 
