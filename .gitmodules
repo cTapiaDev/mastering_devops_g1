@@ -7,3 +7,6 @@
 [submodule "terraform-k8s-demo"]
 	path = terraform-k8s-demo
 	url = https://github.com/cTapiaDev/terraform-k8s-demo
+[submodule "kubernetes-avanzado-m5"]
+	path = kubernetes-avanzado-m5
+	url = https://github.com/cTapiaDev/kubernetes-avanzado-g1
