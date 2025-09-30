@@ -21,7 +21,7 @@ Este proyecto se enfoca en el despliegue seguro de una aplicación multi-compone
 * <b>Tecnologías Clave:</b> `Kubernetes (Kind)`, `Helm`, `YAML`, `NetworkPolicy`, `RBAC`.
 * <b>Repositorio del Proyecto:</b> [ctapiadev/kubernetes-avanzado-g1](https://github.com/cTapiaDev/kubernetes-avanzado-g1)
 
-#### 🏗️ Módulo 6: Infraestructura como Código (IaC) y Testing
+#### 🏗️ Módulo 7: Infraestructura como Código (IaC) y Testing
 Este proyecto demuestra un flujo de trabajo de "Infraestructura como Código" (IaC) para Kubernetes, aplicando principios de "Test-Driven Infraestructure" (TDI). Se crea un módulo de Terraform reutilizable y se valida con pruebas automatizadas usando Terratest.
 * <b>Tecnologías Clave:</b> `Terraform`, `Go (Golang)`, `Terratest`, `Kubernetes (Kind)`.
 * <b>Repositorio del Proyecto:</b> [ctapiadev/k8s-terraform-demo](https://github.com/cTapiaDev/terraform-k8s-demo)
