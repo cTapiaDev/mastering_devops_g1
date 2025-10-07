@@ -10,3 +10,6 @@
 [submodule "kubernetes-avanzado-m5"]
 	path = kubernetes-avanzado-m5
 	url = https://github.com/cTapiaDev/kubernetes-avanzado-g1
+[submodule "aiops_demo"]
+	path = aiops_demo
+	url = https://github.com/cTapiaDev/aiops_demo
