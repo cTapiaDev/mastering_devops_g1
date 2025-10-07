@@ -26,6 +26,11 @@ Este proyecto demuestra un flujo de trabajo de "Infraestructura como Código" (I
 * <b>Tecnologías Clave:</b> `Terraform`, `Go (Golang)`, `Terratest`, `Kubernetes (Kind)`.
 * <b>Repositorio del Proyecto:</b> [ctapiadev/k8s-terraform-demo](https://github.com/cTapiaDev/terraform-k8s-demo)
 
+#### 🧠 Módulo 10: AIOps & Incident Management
+Este proyecto simula un flujo completo de AIOps y auto-remediación, configurando un sistema que detecta incidentes, los agrupa de forma inteligente y ejecuta acciones correctivas automáticas. A través de un webhook personalizado que actúa como "runbook", se demuestra cómo automatizar la respuesta a incidentes para reducir drásticamente el tiempo de resolución (MTTR), imitando el comportamiento de plataformas AIOps modernas.
+* <b>Tecnologías Clave:</b> `Prometheus`, `Alertmanager`, `Docker`, `Python (Flask)`, `YAML`.
+* <b>Repoistorio del Proyecto:</b> [ctapiadev/aiops_demo](https://github.com/cTapiaDev/aiops_demo)
+
 ---
 
 ## 📜 Licencia
